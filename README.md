@@ -3,6 +3,6 @@
 ##Picker选择器
 ```
 效果图：  
-![](.ww.png)
+![](.WWPicter.image.ww.png)
 
 ```
