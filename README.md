@@ -10,4 +10,4 @@ quickly create scan view <br>
 
 ```
 效果图：  
-![](.WWPicter.image.ww.png)
+![](~WWPicter.image.ww.png)
