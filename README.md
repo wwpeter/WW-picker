@@ -9,3 +9,5 @@ quickly create scan view <br>
 <br>
 
 ```
+效果图：  
+![www](.WWPicter.image.ww.png)
