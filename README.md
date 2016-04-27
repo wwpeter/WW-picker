@@ -8,4 +8,4 @@
 
 ```
 ## 效果图：  
-![](.ww.png)
+![王威](http://www.baidu.com/img/bdlogo.gif)
